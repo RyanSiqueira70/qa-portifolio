@@ -1,0 +1,32 @@
+# BUG-001 — Login não funciona com senha válida
+
+## Descrição
+
+O sistema não permite que um usuário cadastrado faça login mesmo utilizando uma senha válida.
+
+## Passos para reproduzir
+
+1. Acessar a página de login.
+2. Informar um e-mail cadastrado.
+3. Informar a senha correta.
+4. Clicar em "Entrar".
+
+## Resultado esperado
+
+O usuário deve acessar sua conta normalmente.
+
+## Resultado atual
+
+O sistema permanece na tela de login.
+
+## Severidade
+
+Alta
+
+## Prioridade
+
+Alta
+
+## Status
+
+Aberto
