@@ -1,0 +1,16 @@
+# Casos de Teste — Login
+
+## CT-001 — Login com dados válidos
+
+**Pré-condição:** Usuário cadastrado.
+
+**Passos:**
+1. Acessar a tela de login.
+2. Informar um e-mail válido.
+3. Informar uma senha válida.
+4. Clicar em "Entrar".
+
+**Resultado esperado:**
+O usuário deve ser autenticado e direcionado para a página inicial.
+
+**Status:** Não executado
